@@ -1,0 +1,74 @@
+{
+    "USA": {
+        "regions": [
+            "Asia",
+            "Europe",
+            "Pacific",
+            "Americas",
+            "Middle East",
+            "Africa"
+        ],
+        "sales": [
+            3000,
+            4000,
+            2000,
+            8000,
+            1000,
+            500
+        ]
+    },
+    "CAN": {
+        "regions": [
+            "Asia",
+            "Europe",
+            "Pacific",
+            "Americas",
+            "Middle East",
+            "Africa"
+        ],
+        "sales": [
+            3000,
+            4000,
+            2000,
+            8000,
+            1000,
+            500
+        ]
+    },
+    "GER": {
+        "regions": [
+            "Asia",
+            "Europe",
+            "Pacific",
+            "Americas",
+            "Middle East",
+            "Africa"
+        ],
+        "sales": [
+            3000,
+            4000,
+            2000,
+            8000,
+            1000,
+            500
+        ]
+    },
+    "IND": {
+        "regions": [
+            "Asia",
+            "Europe",
+            "Pacific",
+            "Americas",
+            "Middle East",
+            "Africa"
+        ],
+        "sales": [
+            3000,
+            4000,
+            2000,
+            8000,
+            1000,
+            500
+        ]
+    }
+}

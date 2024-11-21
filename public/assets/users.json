@@ -1,0 +1,17 @@
+{
+    "USA": {
+      "totalUsers": 3201,
+      "premiumUsers": 1200,
+      "basicUsers": 2001
+    },
+    "CAN": { "totalUsers": 3201,
+      "premiumUsers": 1200,
+      "basicUsers": 2001 },
+      "GER": { "totalUsers": 3201,
+      "premiumUsers": 1200,
+      "basicUsers": 2001 },
+      "IND": { "totalUsers": 3201,
+      "premiumUsers": 1200,
+      "basicUsers": 2001 }
+  }
+  

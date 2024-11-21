@@ -1,0 +1,74 @@
+{
+    "USA": {
+        "totalIncome": {
+            "value": 110000,
+            "change": 5
+        },
+        "profit": {
+            "value": 45000,
+            "change": -2
+        },
+        "totalViews": {
+            "value": 850000,
+            "change": 12
+        },
+        "conversionRate": {
+            "value": 3.5,
+            "change": 1.2
+        }
+    },
+    "CAN": {
+        "totalIncome": {
+            "value": 110000,
+            "change": 5
+        },
+        "profit": {
+            "value": 55000,
+            "change": -2
+        },
+        "totalViews": {
+            "value": 850000,
+            "change": 12
+        },
+        "conversionRate": {
+            "value": 3.5,
+            "change": 1.2
+        }
+    },
+    "GER": {
+        "totalIncome": {
+            "value": 120000,
+            "change": 5
+        },
+        "profit": {
+            "value": 45000,
+            "change": -2
+        },
+        "totalViews": {
+            "value": 850000,
+            "change": 12
+        },
+        "conversionRate": {
+            "value": 3.5,
+            "change": 1.2
+        }
+    },
+    "IND": {
+        "totalIncome": {
+            "value": 120000,
+            "change": 5
+        },
+        "profit": {
+            "value": 45000,
+            "change": -2
+        },
+        "totalViews": {
+            "value": 850000,
+            "change": 12
+        },
+        "conversionRate": {
+            "value": 3.5,
+            "change": 1.2
+        }
+    }
+}

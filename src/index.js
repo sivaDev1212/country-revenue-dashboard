@@ -3,6 +3,11 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'primereact/resources/themes/lara-light-blue/theme.css';  /* PrimeReact Theme */
+import 'primereact/resources/primereact.min.css';               /* PrimeReact Components */
+import 'primeicons/primeicons.css';                             /* PrimeIcons */
+import 'primeflex/primeflex.css';                               /* PrimeFlex for layout */
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
