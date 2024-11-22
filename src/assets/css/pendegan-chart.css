@@ -1,0 +1,8 @@
+.pendegan-chart{
+    width: 300px;
+    height: 300px;
+}
+.pendegan-chart canvas{
+    height: 300px !important;
+    width: 300px !important;
+}

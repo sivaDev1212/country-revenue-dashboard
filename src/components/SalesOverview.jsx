@@ -1,4 +1,5 @@
 import { Chart } from 'primereact/chart';
+import '../assets/css/line-chart.css'
 
 const SalesOverview = ({ data }) => {
   const chartData = {
@@ -25,7 +26,7 @@ const SalesOverview = ({ data }) => {
     }
   };
 
-  return <Chart type="line" data={chartData} options={options} />;
+  return <Chart className='line_cart' type="line" data={chartData} options={options} />;
 };
 
 export default SalesOverview;

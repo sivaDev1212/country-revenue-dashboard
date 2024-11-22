@@ -1,0 +1,16 @@
+.cards-section{
+    display: flex;
+    /* gap: 50%; */
+}
+.bar-chart{
+    display: flex;
+}
+@media (max-width: 767px) {
+    .cards-section{
+        display: block;
+        /* gap: 50%; */
+    }
+    .bar-chart{
+        display: block;
+    }
+}

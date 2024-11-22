@@ -1,4 +1,18 @@
 .cards-first{
     display: flex;
-    gap: 5px;
+    /* gap: 5px; */
+    justify-content: space-between;
+}
+.card-size{
+    width: 200px;
+}
+@media (max-width: 767px) {
+    .cards-first{
+        display: block;
+        
+        /* justify-content: space-between; */
+    }
+    .card-size{
+        width: 100%;
+    }
 }

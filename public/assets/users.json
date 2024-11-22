@@ -1,17 +1,22 @@
 {
-    "USA": {
-      "totalUsers": 3201,
-      "premiumUsers": 1200,
-      "basicUsers": 2001
-    },
-    "CAN": { "totalUsers": 3201,
-      "premiumUsers": 1200,
-      "basicUsers": 2001 },
-      "GER": { "totalUsers": 3201,
-      "premiumUsers": 1200,
-      "basicUsers": 2001 },
-      "IND": { "totalUsers": 3201,
-      "premiumUsers": 1200,
-      "basicUsers": 2001 }
+  "USA": {
+      "totalUsers": 3500,
+      "premiumUsers": 1400,
+      "basicUsers": 2100
+  },
+  "CAN": {
+      "totalUsers": 3100,
+      "premiumUsers": 1100,
+      "basicUsers": 2000
+  },
+  "GER": {
+      "totalUsers": 4000,
+      "premiumUsers": 1500,
+      "basicUsers": 2500
+  },
+  "IND": {
+      "totalUsers": 5000,
+      "premiumUsers": 1800,
+      "basicUsers": 3200
   }
-  
+}

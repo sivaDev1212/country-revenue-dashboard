@@ -1,0 +1,16 @@
+.line_cart{
+    width: 100%;
+}
+.line_cart canvas{
+    height: 300px !important;
+    width: 600px !important;
+}
+@media (max-width: 767px) {
+    .line_cart{
+        width: 100%;
+    }
+    .line_cart canvas{
+        height: 187px !important;
+        width: 374px !important;
+    }
+}

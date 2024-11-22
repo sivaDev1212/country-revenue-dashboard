@@ -1,4 +1,5 @@
 import { Chart } from 'primereact/chart';
+import '../assets/css/pendegan-chart.css'
 
 const SalesByRegion = ({ regions, sales }) => {
     const chartData = {
@@ -14,7 +15,7 @@ const SalesByRegion = ({ regions, sales }) => {
       ]
     };
   
-    return <Chart type="radar" data={chartData} />;
+    return <Chart className='pendegan-chart' type="radar" data={chartData} />;
   };
   
   export default SalesByRegion;

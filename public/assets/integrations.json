@@ -1,5 +1,5 @@
 [
-    { "name": "Stripe", "type": "Finance", "rate": 33, "profit": 12000, "logo": "stripe.png" },
+    { "name": "Stripe", "type": "Finance", "rate": 33, "profit": 12000, "logo": "stripe.webp" },
     { "name": "Zapier", "type": "CRM", "rate": 45, "profit": 8000, "logo": "zapier.png" },
     { "name": "Shopify", "type": "Marketplace", "rate": 67, "profit": 23000, "logo": "shopify.png" }
   ]

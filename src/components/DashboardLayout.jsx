@@ -24,7 +24,7 @@ const DashboardLayout = ({ children, country, setCountry, countries }) => {
   return (
     <div className="p-grid">
       {/* Sidebar */}
-      <button onClick={() => setVisible(true)}>Open Sidebar</button>
+      {/* <button onClick={() => setVisible(true)}>Open Sidebar</button> */}
       <Sidebar visible={visible} onHide={() => setVisible(false)} className="p-sidebar-sm">
         <ul className="p-list-none">
           <li><i className="pi pi-home"></i></li>

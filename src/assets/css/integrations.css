@@ -1,0 +1,8 @@
+.integrations{
+    width: 59%;
+}
+@media (max-width: 767px) {
+    .integrations{
+        width: 100%;
+    }
+}

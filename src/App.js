@@ -6,6 +6,7 @@ import SalesOverview from './components/SalesOverview';
 import SalesByRegion from './components/SalesByRegion';
 import RegisteredUsers from './components/RegisteredUsers';
 import Integrations from './components/Integrations';
+import './assets/css/app.css'
 
 const App = () => {
   var [country, setCountry] = useState('GER');
@@ -42,12 +43,16 @@ const App = () => {
     <DashboardLayout country={country} setCountry={setCountry} countries={countries}>
       <StatCards stats={stats} />
      
+      <div className='cards-section'>
       <SalesOverview data={salesOverview} />
       
       <SalesByRegion regions={salesRegion?.regions} sales={salesRegion?.sales} />
+      </div>
+      <div className='bar-chart'>
       <RegisteredUsers users={users} />
       
       <Integrations integrations={integrations} />
+      </div>
     </DashboardLayout>
   );
 };

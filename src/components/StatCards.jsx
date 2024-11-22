@@ -1,11 +1,11 @@
 import { Card } from 'primereact/card';
-// import '../assets/css/card.css'
+import '../assets/css/cards.css'
 
 const StatCard = ({ title, value, change }) => {
   const iconClass = change >= 0 ? 'pi pi-arrow-up text-green-500' : 'pi pi-arrow-down text-red-500';
 
   return (
-    <Card className="p-col-12 p-md-3">
+    <Card className="p-col-12 p-md-3 card-size">
       <h4>{title}</h4>
       <p className="text-2xl font-bold">{value}</p>
       <p className="text-sm">

@@ -1,0 +1,8 @@
+.registerd-users{
+    width: 41%;
+}
+@media (max-width: 767px) {
+    .registerd-users{
+        width: 100%;
+    }
+}
